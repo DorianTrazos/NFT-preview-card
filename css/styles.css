@@ -57,7 +57,7 @@ body {
 }
 
 @media (hover: hover) {
-  .card-image-container:hover .icon-view {
+  .icon-view:hover {
     opacity: 1;
   }
 
